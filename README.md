@@ -5,7 +5,7 @@ The study aims to identify differentially expressed genes (DEGs) associated with
 
 Methods Overview: DEG analysis was performed using GEO2R on GSE69529 and GSE54070 datasets. Multiple machine learning models (SVM, RF, NN, LR, XGBoost) were applied via Orange 3.10.2 for cross-validation. Cytoscape and databases such as STRINGdb, IntAct, and CTD were utilized for protein interaction and upstream regulatory analysis.
 
-To start conducting the analysis, please open "[General Workflow](General-Workflow-Analysis.ipynb)\n"
+To start conducting the analysis, please open [General Analysis Workflow](General-Workflow-Analysis.ipynb)
 
 
 
